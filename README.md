@@ -1,13 +1,17 @@
 # Detect Keyboard User
 
-Detect if the user navigate with his keyboard&thinsp;⌨️ or mouse&thinsp;🖱️. Then add a matching class to the html element. This allow to remove the blue outline for the mouse users and at the same time keeps it for keyboard users.
+Detect if the user navigate with his keyboard&thinsp;⌨️ or mouse&thinsp;🖱️. Then add a matching class to the html element. This allow to remove the blue outline for the mouse users and keeps it at the same time for the keyboard users.
 
 👍 Lite 5kb (2kb Gzipped) ⚡ Fast Native JavaScript 🚫 No Dependencies
 
+<p align="center">
+  <img src="https://i.imgur.com/7FfuUhX.gif">
+</p>
+
 Examples
 -----
-- [Basic]()
-- [Pointer-priority]()
+- [Basic](https://codepen.io/smnarnold/pen/abzQPaZ)
+- [Pointer-priority](https://codepen.io/smnarnold/pen/xxbQmyE)
 
 Installation
 -----
