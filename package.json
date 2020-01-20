@@ -1,7 +1,7 @@
 {
   "name": "detect-keyboard-user",
   "version": "1.0.0",
-  "description": "Native JS Autocomplete on email fields",
+  "description": "Detect if the user navigate with his keyboard or mouse. Then add a matching class to the html element. This allow to remove the blue outline for the mouse users and at the same time keeps it for keyboard users.",
   "main": "dist/detect-keyboard-user.js",
   "unpkg": "dist/detect-keyboard-user.min.js",
   "scripts": {
