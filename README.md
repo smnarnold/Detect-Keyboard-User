@@ -44,9 +44,17 @@ Options
 
 Methods
 -----
-| ------- |------- |
-| myDKU.refresh(); | You should call this method if you emulate devices with your browser and want to avoid false/positive |
-| myDKU.destroy(); | Remove everything 😥 |
+| ------- | ------- |
+| 
+```js
+myDKU.refresh();
+``` 
+| You should call this method if you emulate devices with your browser and want to avoid false/positive |
+| 
+```js
+myDKU.destroy();
+``` 
+| Remove everything 😥 |
 
 Originally inspired by
 -----
