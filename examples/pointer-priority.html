@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Pointer priority example</title>
+  <style>
+    .pointer-user button:focus { outline: none; }
+    .keyboard-user button:focus { outline: solid 3px pink; }
+  </style>
+</head>
+<body>
+  <button>Button 1</button>
+  <button>Button 2</button>
+  <button>Button 3</button>
+  <script src="../dist/detect-keyboard-user.js"></script>
+  <script>
+    var dku = new DetectKeyboardUser({
+      keyboardPriority: false,
+    });
+  </script>
+</body>
+</html>

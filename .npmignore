@@ -1,0 +1,12 @@
+# files
+.babelrc
+
+# folders
+/src
+/examples
+/tmp
+/out-tsc
+/.idea
+
+# dependencies
+/node_modules

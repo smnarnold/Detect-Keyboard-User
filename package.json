@@ -1,0 +1,39 @@
+{
+  "name": "detect-keyboard-user",
+  "version": "1.0.0",
+  "description": "Native JS Autocomplete on email fields",
+  "main": "dist/detect-keyboard-user.js",
+  "unpkg": "dist/detect-keyboard-user.min.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "keyboard",
+    "focus",
+    "focus ring",
+    "no-jquery",
+    "vanilla",
+    "vanilla-js"
+  ],
+  "author": "Simon Arnold, <moi@smnarnold.com> (https://smnarnold.com)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smnarnold/detect-keyboard-user.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smnarnold/detect-keyboard-user/issues"
+  },
+  "homepage": "https://github.com/smnarnold/detect-keyboard-user#readme",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.10"
+  }
+}
