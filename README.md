@@ -5,7 +5,8 @@ Detect if the user navigate with his keyboard&thinsp;⌨️ or mouse&thinsp;🖱
 👍 Lite 5kb (2kb Gzipped) ⚡ Fast Native JavaScript 🚫 No Dependencies
 
 <p align="center">
-  <img src="https://i.imgur.com/UH5VJP5.gif">
+  <img src="https://i.imgur.com/UH5VJP5.gif"><br>
+  <em>Going back and forth between mouse and keyboard navigation</em>
 </p>
 
 Examples
