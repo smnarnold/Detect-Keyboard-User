@@ -5,7 +5,7 @@ Detect if the user navigate with his keyboard&thinsp;⌨️ or mouse&thinsp;🖱
 👍 Lite 5kb (2kb Gzipped) ⚡ Fast Native JavaScript 🚫 No Dependencies
 
 <p align="center">
-  <img src="https://i.imgur.com/7FfuUhX.gif">
+  <img src="https://i.imgur.com/UH5VJP5.gif">
 </p>
 
 Examples
